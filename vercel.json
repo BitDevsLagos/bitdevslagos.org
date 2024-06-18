@@ -8,8 +8,7 @@
         }
       }
     ],
-    "scripts": {
-      "build": "curl -sSf https://sh.rustup.rs | sh -s -- -y && source $HOME/.cargo/env && cargo install zola && zola build"
-    }
+    "installCommand": "curl -sSf https://sh.rustup.rs | sh -s -- -y && source $HOME/.cargo/env && cargo install zola",
+    "buildCommand": "zola build"
   }
   
