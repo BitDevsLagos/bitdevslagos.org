@@ -1,13 +1,6 @@
 {
-    "builds": [
-      {
-        "src": "build.sh",
-        "use": "@vercel/static-build",
-        "config": {
-          "distDir": "public"
-        }
-      }
-    ],
-    "buildCommand": "./build.sh"
-  }
-  
+    "framework": null,
+    "installCommand": "REPO=\"getzola/zola\"; curl -fsS https://api.github.com/repos/${REPO}/releases/latest | grep -oP '\"browser_download_url\": ?\"\\K(.+linux-gnu.tar.gz)' | xargs -n 1 curl -fsSL -o zola.tar.gz && tar -xzvf zola.tar.gz",
+    "buildCommand": "./zola build",
+    "outputDirectory": "public"
+}
