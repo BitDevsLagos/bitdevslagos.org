@@ -1,0 +1,15 @@
+{
+    "builds": [
+      {
+        "src": "config.toml",
+        "use": "@vercel/static-build",
+        "config": {
+          "distDir": "public"
+        }
+      }
+    ],
+    "scripts": {
+      "build": "curl -sSf https://sh.rustup.rs | sh -s -- -y && source $HOME/.cargo/env && cargo install zola && zola build"
+    }
+  }
+  
