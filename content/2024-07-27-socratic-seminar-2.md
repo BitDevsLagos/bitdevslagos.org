@@ -1,5 +1,5 @@
 +++
-title = "Workshop #1"
+title = "Socratic Seminar #2"
 template = "post.html"
 [extra]
 +++
