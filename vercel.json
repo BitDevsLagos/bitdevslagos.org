@@ -1,6 +1,6 @@
 {
     "framework": null,
-    "installCommand": "REPO=\"getzola/zola\"; curl -fsS https://api.github.com/repos/${REPO}/releases/latest | grep -oP '\"browser_download_url\": ?\"\\K(.+linux-gnu.tar.gz)' | xargs -n 1 curl -fsSL -o zola.tar.gz && tar -xzvf zola.tar.gz",
+    "installCommand": "curl -fsSL -o zola.tar.gz https://github.com/getzola/zola/releases/download/v0.19.2/zola-v0.19.2-x86_64-unknown-linux-gnu.tar.gz && tar -xzvf zola.tar.gz",
     "buildCommand": "./zola build",
     "outputDirectory": "public"
 }
