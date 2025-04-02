@@ -44,7 +44,7 @@ MC: [Bosun](https://x.com/bosunoyeleke)
 
 ---
 
-### LIghtning Network
+### Lightning Network
 
 MC: [Tobe](https://github.com/TChukwuleta)
 
