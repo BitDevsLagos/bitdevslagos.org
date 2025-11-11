@@ -28,7 +28,7 @@ sponsor, [Btrust](http://btrust.tech/) for food and refreshments.
 
 MC: [Tobe](https://github.com/TChukwuleta)
 
-The September Bitdevs Lagos gathering featured a presentation by **Tobe** (https://github.com/TChukwuleta) on **Arkade** (https://docs.arkadeos.com/), a new operating system designed for programmable money, built atop the **Ark protocol** (https://ark-protocol.org/).
+The September Bitdevs Lagos gathering featured a presentation by [Tobe](https://github.com/TChukwuleta) on [Arkade](https://docs.arkadeos.com/), a new operating system designed for programmable money, built atop the [Ark protocol](https://ark-protocol.org/).
 
 ---
 
