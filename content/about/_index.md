@@ -6,7 +6,7 @@ description = "All about this site"
 BitDevsLagos is inspired by the original [BitDevs NYC](https://bitdevs.org) to 
 help grow a community in Lagos area of those interested in discussing 
 and participating in the research and development of Bitcoin and related 
-protocols and software. You can be well versed with or new to the topics, all are welcome. 
+protocols and software. It was started and is currently being managed by [Tobe](https://www.linkedin.com/in/tobechichukwuleta/). Come join us, you can be well versed with or new to the topics, everyone is welcome. 
 Be advised: discussion will occassionally be technical.
 
 ### Socratic Seminars
